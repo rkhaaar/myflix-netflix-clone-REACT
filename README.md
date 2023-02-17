@@ -9,5 +9,6 @@ ScreenShots of the final Result:
 
 On the page you'll find a featured tvshow that will always change and it's 'description' everytime you refresh the page, it's also possible to scroll throw all the movies and tv shows in each category bellow the featured movie/tvshow. 
 All the information comes from a Api on this case i'm using from https://www.themoviedb.org
+Added a new library "Material UI", from https://mui.com as you'll see in MovieRow.js for the arrows.
 You'll also find that the page is mobile responsive.
 Thank you for reading my code. 
